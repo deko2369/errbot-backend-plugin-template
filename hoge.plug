@@ -1,0 +1,6 @@
+[Core]
+Name = Hoge
+Module = hoge
+
+[Documantation]
+Description = This is the Hoge(imaginary chat system for explanation) backend for Err.
